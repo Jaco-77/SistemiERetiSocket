@@ -89,7 +89,7 @@ namespace EsercizioWpfAppComunicazioneSocket
                         this.Dispatcher.BeginInvoke(new Action(() =>
                         {
                             // Aggiunge alla listbox il contenuto del messaggio
-                            lblRicezione.Content = message;
+                            lblRicezione.Content = "\t\t" + message;
                         }));
                     }
                 }
