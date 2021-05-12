@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EsercizioWpfAppComunicazioneSocket"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Progetto 1" Height="450" Width="800">
     <Grid>
         <TextBox x:Name="txtIPAdd" HorizontalAlignment="Left" Height="23" Margin="10,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Destinazione IP Address" VerticalAlignment="Top" Width="131"/>
